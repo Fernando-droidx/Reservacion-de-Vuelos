@@ -9,7 +9,7 @@ Reserva de Vuelos: Reserva un vuelo proporcionando tu nombre, origen y destino d
 Uso
 ### Ejecución del Programa: Al iniciar el programa, se te dará la bienvenida y se presentarán las opciones disponibles.
 ### Vuelos Disponibles: Si seleccionas la opción de "Vuelos Disponibles", podrás ver una lista de los vuelos disponibles en la base de datos.
-Reserva de Vuelos: Si seleccionas la opción de "Reservar un vuelo", podrás ingresar tu nombre, origen y destino para reservar un vuelo.
+### Reserva de Vuelos: Si seleccionas la opción de "Reservar un vuelo", podrás ingresar tu nombre, origen y destino para reservar un vuelo.
 ### Ejecución
 Para ejecutar el programa, simplemente sigue las instrucciones presentadas en pantalla y selecciona la opción deseada del menú.
 
