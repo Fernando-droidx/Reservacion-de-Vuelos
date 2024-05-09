@@ -1,0 +1,11 @@
+Número de vuelo,Aerolínea,Origen,Destino,Salida,Llegada,Duración,Precio
+AM1234,Aeroméxico,Guadalajara,Ciudad de México,8:00,9:00,1h,$350
+UA4567,United Airlines,Tijuana,Los Ángeles,10:00,12:00,2h,$500
+MX7890,Volaris,Monterrey,Cancún,14:00,17:00,3h,$400
+AM1516,Aeroméxico,Puerto Vallarta,Ciudad de México,11:00,12:30,1h 30m,$450
+UA5678,United Airlines,Ensenada,San Diego,13:00,14:00,1h,$250
+MX9012,Volaris,Mazatlán,Guadalajara,15:00,16:30,1h 30m,$300
+AM2345,Aeroméxico,Chihuahua,Ciudad Juárez,7:00,8:00,1h,$200
+UA6789,United Airlines,Hermosillo,Phoenix,9:00,10:30,1h 30m,$375
+MX0123,Volaris,La Paz,Tijuana,12:00,13:30,1h 30m,$280
+AM3456,Aeroméxico,Torreón,Monterrey,16:00,17:00,1h,$220
