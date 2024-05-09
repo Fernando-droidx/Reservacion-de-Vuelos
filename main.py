@@ -62,6 +62,3 @@ def reservar_vuelo(origen, destino, nombre):
                 elif des == 'n':
                     print("Sale del programa")
                     menu()
-
-
-
