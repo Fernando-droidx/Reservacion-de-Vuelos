@@ -7,11 +7,16 @@ AeroFer es un sistema de reservación de vuelos diseñado para ayudarte a encont
 Vuelos Disponibles: Visualiza una lista de vuelos disponibles, incluyendo información como aerolínea, origen, destino, horario de salida, horario de llegada, duración y precio.
 Reserva de Vuelos: Reserva un vuelo proporcionando tu nombre, origen y destino deseados.
 Uso
-### Ejecución del Programa: Al iniciar el programa, se te dará la bienvenida y se presentarán las opciones disponibles.
-### Vuelos Disponibles: Si seleccionas la opción de "Vuelos Disponibles", podrás ver una lista de los vuelos disponibles en la base de datos.
-### Reserva de Vuelos: Si seleccionas la opción de "Reservar un vuelo", podrás ingresar tu nombre, origen y destino para reservar un vuelo.
+### Ejecución del Programa:
+Al iniciar el programa, se te dará la bienvenida y se presentarán las opciones disponibles.
+### Vuelos Disponibles: 
+Si seleccionas la opción de "Vuelos Disponibles", podrás ver una lista de los vuelos disponibles en la base de datos.
+### Reserva de Vuelos: 
+Si seleccionas la opción de "Reservar un vuelo", podrás ingresar tu nombre, origen y destino para reservar un vuelo.
 ### Ejecución
 Para ejecutar el programa, simplemente sigue las instrucciones presentadas en pantalla y selecciona la opción deseada del menú.
+### Interfaz de Usuario
+La interfaz de usuario es intuitiva y fácil de usar. Te proporciona opciones claras para explorar los vuelos disponibles y realizar reservas de manera rápida.
 
 ## Requisitos
 1. Python 3.x
@@ -26,6 +31,6 @@ Para ejecutar el programa, simplemente sigue las instrucciones presentadas en pa
 10. Precio
 
 ## Contribución
-Si deseas contribuir a este proyecto, por favor envía tus sugerencias y mejoras a [correo electrónico].
+Si deseas contribuir a este proyecto, por favor envía tus sugerencias y mejoras a carloimagno1995@gmail.com.
 
 # ¡Gracias por usar AeroFer! ¡Esperamos que tengas un excelente viaje!
