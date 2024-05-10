@@ -18,6 +18,8 @@ Para ejecutar el programa, simplemente sigue las instrucciones presentadas en pa
 ### Interfaz de Usuario
 La interfaz de usuario es intuitiva y fácil de usar. Te proporciona opciones claras para explorar los vuelos disponibles y realizar reservas de manera rápida.
 
+![Ss](image.png)
+
 ## Requisitos
 1. Python 3.x
 2. Archivo CSV de vuelos (nombre: vuelos.csv) con el siguiente formato:
